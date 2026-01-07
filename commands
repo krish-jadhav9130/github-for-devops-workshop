@@ -1,0 +1,26 @@
+    1  sudo -i
+    2  git --version
+    3  docker --version
+    4  git --version
+    5  git init
+    6  git git status
+    7  git ststus
+    8  git status
+    9  cat krushna
+   10  cat <krushna
+   11  cat < krushna
+   12  cat > krushna
+   13  vim krushna 
+   14  git status
+   15  git add krushna 
+   16  git status
+   17  git commit -m "I am Krushna"
+   18  git status
+   19  rm krushna 
+   20  ls
+   21  git ststus
+   22  git status
+   23  restore krushna
+   24  git restore krushna
+   25  ls
+   26  git status
